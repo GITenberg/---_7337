@@ -1,9 +1,12 @@
 _repo: '---_7337'
-_version: 0.0.1
+_version: 0.1.0
 alternative_title:
 - Dao De Jing
 - Tao Te Ching
 - Dào Dé Jīng
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Laozi
@@ -16,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2427
     wikipedia: http://en.wikipedia.org/wiki/Lao_Zi
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7337#---
 gutenberg_issued: '2005-01-01'
 gutenberg_type: Text
 identifiers:
